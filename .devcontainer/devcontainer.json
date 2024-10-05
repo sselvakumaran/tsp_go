@@ -1,0 +1,11 @@
+{
+  "name": "go",
+  "dockerFile": "Dockerfile",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "golang.Go"
+      ]
+    }
+  }
+}
